@@ -1,0 +1,12 @@
+{
+    "name": "bnf/typo3-composer-test",
+    "config": {
+        "bin-dir": "bin"
+    },
+    "require": {
+        "typo3/cms-core": "dev-master",
+        "typo3/minimal": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
